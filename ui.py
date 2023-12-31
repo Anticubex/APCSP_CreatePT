@@ -178,7 +178,7 @@ class UI_group:
 
 
 def is_float(element: any) -> bool:
-    # If you expect None to be passed:
+    """Checks whether a value can be converted to a float by python"""
     if element is None:
         return False
     try:

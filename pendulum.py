@@ -1,8 +1,7 @@
 """Defines a pendulum system, with pygame rendering"""
 
-import pygame as pg
 from math import sqrt
-
+import pygame as pg
 
 GRAVITY = 4.1
 

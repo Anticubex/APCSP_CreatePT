@@ -1,4 +1,7 @@
-"""A UI system menu for pygame, derived from stack overflow and github user Rabbid76;s work"""
+"""
+ui.py
+A UI system menu for pygame, derived from stack overflow and github user Rabbid76;s work
+"""
 
 from abc import ABC, abstractmethod
 from dataclasses import dataclass

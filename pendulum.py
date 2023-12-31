@@ -1,4 +1,7 @@
-"""Defines a pendulum system, with pygame rendering"""
+"""
+pendulum.py
+Defines a pendulum system, with pygame rendering
+"""
 
 from math import sqrt
 import pygame as pg

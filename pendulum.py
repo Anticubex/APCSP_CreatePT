@@ -1,7 +1,7 @@
 """Defines a pendulum system, with pygame rendering"""
 
 import pygame as pg
-from math import sin, cos, tau, sqrt
+from math import sqrt
 
 
 GRAVITY = 4.1
